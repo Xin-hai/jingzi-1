@@ -1,4 +1,4 @@
-# vue-jingzi-1
+# [井字棋预览链接](https://xin-hai.github.io/vue-jingzi-1/dist/index.html)
 
 ## Project setup
 ```
